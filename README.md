@@ -1,6 +1,7 @@
 # graphql-user-api
 
 Clone the repo and npm install to get started
+
 This project has been setup with MongoMemoryServer and some default data to get started quickly
 
 If you prefer you can comment out the startDatabase code in index, and uncomment the part where you connect to your own instance of MongoDB if installed for a more persistent DB
