@@ -28,6 +28,7 @@ async function startDatabase() {
 }
 
 async function stopDatabase() {
+  await database.close();
   await mongo.stop();
 }
 

@@ -2,31 +2,31 @@ const Users = [
   {
     givenName: "Kyle",
     familyName: "Moxham",
-    email: "email1@email.com",
+    email: "kylemoxham@kmcv.com",
     created: new Date().toISOString()
   },
   {
-    givenName: "Kyle",
-    familyName: "Moxham",
-    email: "email2@email.com",
+    givenName: "Danny",
+    familyName: "Longsmith",
+    email: "keepitonthedl@smithsonian.com",
     created: new Date().toISOString()
   },
   {
-    givenName: "Kyle",
-    familyName: "Moxham",
-    email: "email3@email.com",
+    givenName: "Hooch",
+    familyName: "Pooch",
+    email: "hoochpooch@yolo.com",
     created: new Date().toISOString()
   },
   {
-    givenName: "Kyle",
-    familyName: "Moxham",
-    email: "email4@email.com",
+    givenName: "Penny",
+    familyName: "Portorosso",
+    email: "iampp@pennyportorosso.com",
     created: new Date().toISOString()
   },
   {
-    givenName: "Kyle",
-    familyName: "Moxham",
-    email: "email5@email.com",
+    givenName: "Power",
+    familyName: "Ranger",
+    email: "gogo@powerrangers.com",
     created: new Date().toISOString()
   }
 ];

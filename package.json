@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./index.js localhost 8080",
-    "test": "jest --watchAll --detectOpenHandles"
+    "start": "nodemon ./index.js",
+    "test": "jest"
   },
   "author": "Kyle Moxham",
   "license": "ISC",
